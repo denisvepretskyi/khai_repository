@@ -19,7 +19,7 @@ int main()
 		}
 		cout << "Повторити пошук? (1 - так)" << endl;
 		cin >> repeat;
-	} while (repeat == 1);
+	} while (repeat == 1); // організація повторень.
 	return 0;
 }
 
